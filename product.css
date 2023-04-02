@@ -1,0 +1,30 @@
+body{
+    color: #fff;
+
+}
+
+.main{
+    top: 50px;
+    left: 400px;
+    width: 320px;
+    height: 450px;
+    background: linear-gradient(to top, rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
+    position: absolute;
+    border-radius: 10px;
+    padding: 25px;
+}
+h1{
+    color: #ff7222;
+    text-align: center;
+}
+ul{
+    float: left;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    
+    margin-left: 30px;
+    margin-top: 27px;
+    font-size: 20px;
+}
